@@ -4,6 +4,7 @@ The idea is to collect Annual Reviews (a.k.a Year in Review) from people all ove
 
 
 ## 2022
+
 -[Justin Duke](https://www.arcana.computer/years/2022)
 -[David Perell](https://perell.com/essay/annual-review-2022/)
 -[Anne-Laure Le Cunff](https://nesslabs.com/annual-review-2022)
@@ -14,9 +15,11 @@ The idea is to collect Annual Reviews (a.k.a Year in Review) from people all ove
 -[Dan Wang](https://danwang.co/2022-letter/)
 
 ## 2021
+
 - [Rasul Kireev](https://rasulkireev.com/2021-in-review/)
 
 ## 2020
+
 - [Jordan O'Connor](https://jdnoc.com/2020/)
 
 ## 2019
