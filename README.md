@@ -21,5 +21,8 @@ The idea is to collect Annual Reviews (a.k.a Year in Review) from people all ove
 ## 2020
 
 - [Jordan O'Connor](https://jdnoc.com/2020/)
+- [Rasul Kireev](https://rasulkireev.com/2020/)
 
 ## 2019
+
+- [Rasul Kireev](https://rasulkireev.com/2019-in-review/)
